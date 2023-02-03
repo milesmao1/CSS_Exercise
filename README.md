@@ -16,6 +16,8 @@ Steps are to be completed in your root directory (`CSS_Exercise/`) and `index.ht
 1. Create a **new css file**, named `index.css`, in your project's _root directory_
 2. Create a **link** element nested in the `<head></head>` of your `index.html` file, that contains an **href** attribute with a value that links to your newly created external stylesheet (don't forget to add a **rel** attribute to describe the linked content as a stylesheet\*)
 
+<link rel= "stylesheet" href= "./index.css"/>
+
 ## Exercise 2
 
 Steps are to be completed by writing css rulesets in your `index.css` file.
@@ -24,6 +26,8 @@ Steps are to be completed by writing css rulesets in your `index.css` file.
 2. Create a **ruleset** in your `index.css` file that selects all elements with `nav-link` class name
 3. Create a **declaration** in your new ruleset that changes the **text color** of the `nav-link` elements to **orange**
 4. Create a **declaration** in your new ruleset that changes the **text decoration** of the `nav-link` elements to **none**, to remove the default underline for links.
+
+
 
 ## Exercise 3
 
